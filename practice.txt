@@ -1,1 +1,2 @@
-Git push to Basic_repo
+Git push to Basic_repo.
+The file was pushed successfully.
